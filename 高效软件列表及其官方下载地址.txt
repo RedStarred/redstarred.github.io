@@ -1,38 +1,55 @@
 
-[ 本页简介 ]
+[  本页简介  ]
 
-  测试文字
+  没想到自己居然拿GitHub这个平台来做这种东西XD
+  本页 有关Windows系统下的高效工作以及无广告软件的个人使用推荐
+  或许可以提高你的工作或者学习效率吧
+  希望有所帮助:)
+  本页会不定时更新
+  (页面可以左右滑动)
 
 
+[  下载过程注意事项  ]
 
-[ 最后更新时间 ]
+  部分下载站点可能会有多种下载选项
+  比如： Everything的“安装版”“便携版”
+  这里作一些简单解释：
+    “安装版”即下载之后需要进行正常流程的程序安装，安装程序可能会向你询问软件安装地址、基础软件配置之类的信息，安装完成之后才能运行。
+    安装过程中如果出现诸如无运行库(如.NET Runtime)之类的报错，可能会提醒你去下载并安装相应运行库。
+    “便携版”也叫“绿色版”，即下载之后可以不进行程序安装流程就进行程序运行。
+    如果出现运行库不支持，可能不会弹窗提醒，即表现为运行--闪退，或者运行--无反应
   
-  2022-06-10 23:
+
+[  最近更新时间  ]
+  
+  2022-06-10 23:39
 
 
 
 
-[ 软件及其官方下载地址 ]
+[  软件及其官方下载地址  ]
 
   7-Zip File Manager  :  压缩文件管理软件
   https://www.7-zip.org/                -----英文站点
   https://sparanoid.com/lab/7z/         -----简体中文站点
   
   Google Chrome  :   谷歌浏览器
-  
+  https://www.google.cn/intl/zh-CN/chrome/
   
   TIM  :  办公版QQ
-  
+  https://office.qq.com/
   
   QQ  
-  
+  https://im.qq.com/index
   
   微信  
-  
+  https://pc.weixin.qq.com/
   
   Everything  :  快速搜索文件软件
-  
+  https://www.voidtools.com/zh-cn/
   
   Quicklook  :  轻便预览文件软件 (支持预览图片、视频(包括Win原生不支持的HEVC编码视频)、纯文本文档、音乐)
-  
+  *对于Windows 10或者Windows 11的电脑，系统内置的微软商店(Microsoft Store)可以提供UWP(Universal Windows Platform)版本的Quicklook，运行稳定，不需要自行另外配置
+  https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S?hl=zh-cn&gl=CN
+  **页面点击"在Microsoft Store中获取"，自动跳转到Microsoft Store中进行下载安装。
   
