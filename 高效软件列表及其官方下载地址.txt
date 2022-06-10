@@ -1,4 +1,38 @@
-sdfnws
-eaf EE
-Efwi 
-end
+
+[ 本页简介 ]
+
+  测试文字
+
+
+
+[ 最后更新时间 ]
+  
+  2022-06-10 23:
+
+
+
+
+[ 软件及其官方下载地址 ]
+
+  7-Zip File Manager  :  压缩文件管理软件
+  https://www.7-zip.org/                -----英文站点
+  https://sparanoid.com/lab/7z/         -----简体中文站点
+  
+  Google Chrome  :   谷歌浏览器
+  
+  
+  TIM  :  办公版QQ
+  
+  
+  QQ  
+  
+  
+  微信  
+  
+  
+  Everything  :  快速搜索文件软件
+  
+  
+  Quicklook  :  轻便预览文件软件 (支持预览图片、视频(包括Win原生不支持的HEVC编码视频)、纯文本文档、音乐)
+  
+  
