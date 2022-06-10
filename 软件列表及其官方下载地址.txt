@@ -22,7 +22,7 @@
 
 [  最近更新时间  ]
   
-  2022-06-10 23:39 (GMT+8:00)
+  2022-06-10 23:48 (GMT+8:00)
 
 
 
@@ -47,6 +47,15 @@
   
   Everything  :  快速搜索文件软件
   https://www.voidtools.com/zh-cn/
+  
+  网易云音乐
+  https://music.163.com/#/download
+  
+  QQ音乐
+  https://y.qq.com/download/download.html
+  
+  酷狗音乐
+  https://download.kugou.com/
   
   Quicklook  :  轻便预览文件软件 (支持预览图片、视频(包括Win原生不支持的HEVC编码视频)、纯文本文档、音乐)
   *对于Windows 10或者Windows 11的电脑，系统内置的微软商店(Microsoft Store)可以提供UWP(Universal Windows Platform)版本的Quicklook，运行稳定，不需要自行另外配置
